@@ -1,0 +1,46 @@
+h1 {
+    font-family: Verdana;
+    text-align: center;
+}
+
+h2 {
+    font-family: Geneva;
+}
+
+a:hover {
+    background-color: #FF0000;
+}
+
+.nav {
+    border: 2px solid coral;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+ul a {
+    color:aqua;
+}
+
+#wiki {
+    color: blue;
+}
+
+p {
+    font-family: Tahoma;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+a:visited {
+    color:blueviolet;
+}
+
+#homenavdiv{
+    width: 300px;
+}
