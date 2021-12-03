@@ -40,3 +40,7 @@ p {
 a:visited {
     color:blueviolet;
 }
+
+#homenavdiv{
+    width: 300px;
+}
